@@ -1,9 +1,9 @@
 # Camden Pendergrass
 
-##IT, Programming, Web Development
+## IT, Programming, Web Development
 
 ## Languages
-Python, C#, C++, JavaScript, HTML, CSS, MySQL, PostgreSQL
+### Python, C#, C++, JavaScript, HTML, CSS, MySQL, PostgreSQL
 
 # Projects
 
