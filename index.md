@@ -36,3 +36,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("download-bar"); setTimeout(() => { x[0].remove(); }, 10); </script>
